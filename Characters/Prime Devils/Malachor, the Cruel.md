@@ -1,7 +1,7 @@
 ---
-id: Renna
+id: Malachor, the Cruel
 aliases: []
 tags: []
 ---
 
-Druid of Myrstone
+

@@ -1,7 +1,7 @@
 ---
-id: Renna
+id: Serathos, of Dimite
 aliases: []
 tags: []
 ---
 
-Druid of Myrstone
+

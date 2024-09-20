@@ -1,7 +1,7 @@
 ---
-id: Renna
+id: Nyssa, of Maa Dael
 aliases: []
 tags: []
 ---
 
-Druid of Myrstone
+

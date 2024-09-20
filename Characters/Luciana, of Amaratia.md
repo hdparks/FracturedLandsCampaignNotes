@@ -1,7 +1,7 @@
 ---
-id: Renna
+id: Luciana, of Amaratia
 aliases: []
 tags: []
 ---
 
-Druid of Myrstone
+

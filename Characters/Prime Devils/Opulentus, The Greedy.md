@@ -1,7 +1,6 @@
 ---
-id: Renna
+id: Opulentus, The Greedy
 aliases: []
 tags: []
 ---
 
-Druid of Myrstone
