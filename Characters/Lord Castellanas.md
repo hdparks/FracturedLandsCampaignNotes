@@ -1,0 +1,4 @@
+Associated with the cult causing issues in [[Chaumont]].
+Met him in the [[Myrstone Catamaran Festival]] ball. He was the suspicious mark. We followed him to the elevator, and he threatened us to stop looking in or we'd regret it.
+
+We snuck into his office that night, stole a tome, but he woke up and summoned a demon to chase us away. As we were busy with the chase, it looks like a contract was broken, because once we got back to the penthouse a half hour later, Lord Castellanas and his entire house staff and guards had been ritually sacrificed and arrayed in the main room. Beside him, written in blood: "My servants will not fail me."

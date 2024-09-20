@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "13209ced898c8d90",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e3452792ebad1b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fa340af444b41f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sessions/2024/2-10-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "458c5f955ebda5c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d076d9d6e2934d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94a644221a325594",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cb07e69e790c185c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bdda32b924d844b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4ca73923713d8680",
+    "type": "split",
+    "children": [
+      {
+        "id": "780aca6a572f66b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13dbaa45cb17b926",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sessions/2024/2-10-24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b8ea668c0d5369da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sessions/2024/2-10-24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4b4ed2e4166edb82",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c1288e6a966bb82f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sessions/2024/2-10-24.md"
+              }
+            }
+          },
+          {
+            "id": "f0335e9dc2acb556",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1fa340af444b41f5",
+  "lastOpenFiles": [
+    "Sessions/2024/1-27-24.md",
+    "Sessions/2024/2-3-24.md",
+    "Sessions/2024/2-10-24.md",
+    "Characters/Lord Castellanas.md",
+    "Characters/Elroy.md",
+    "Characters/Devil under Myrstone.md",
+    "The Honor of Kings.md",
+    "Renna.md",
+    "Characters/Tyros.md",
+    "Grand Library of Evelios.md",
+    "Characters/Honor Duvalle.md",
+    "Evelios.md",
+    "Starlight Conservatories.md",
+    "Sigbraugh.md",
+    "Ages.md",
+    "Maa dael, the Deceiver.md",
+    "Characters/Captain Dutch.md",
+    "Characters/Red Razor.md",
+    "Sessions/2024/1-6-24.md",
+    "Cuthric.md",
+    "Sessions/2024",
+    "Characters/Logan.md",
+    "Faede Family Fund.md",
+    "Sessions/2024/1-20-24.md",
+    "Sessions/12-9-23.md",
+    "Characters/Gideon.md",
+    "Characters/Lily Penrose.md",
+    "Ships",
+    "Nations",
+    "Characters",
+    "Locations",
+    "Cities",
+    "Sessions"
+  ]
+}

@@ -1,0 +1,4 @@
+- "Sometimes, ya gotta lie to yer friends" -- [[Adore|Addie]]
+- "To make up for your lack of pajamas, you need to make up for it with an increase in pastry consumption" -- [[Adore|Addie]]
+- "WHERE'S THE DAMN GOBLIN???" -- [[Captain Dutch]]
+- 

@@ -1,0 +1,1 @@
+[[Evelios]] was the first wizard to really *get* magic.

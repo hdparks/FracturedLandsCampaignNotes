@@ -1,0 +1,1 @@
+Head of Kingsguard in [[Myrstone]]
